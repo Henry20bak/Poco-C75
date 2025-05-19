@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_lake-user
-add_lunch_combo omni_lake-userdebug
-add_lunch_combo omni_lake-eng
+add_lunch_combo twrp_lake-user
+add_lunch_combo twrp_lake-userdebug
+add_lunch_combo twrp_lake-eng
